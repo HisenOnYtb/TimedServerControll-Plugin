@@ -1,3 +1,7 @@
 # TimedServerControll-Plugin
 
-Verze 1.16 (ostatní mírně bugují)
+Version - 1.16 (tested)
+
+Let other players know, when the server stop/restart/reload!
+
+Enjoy!
