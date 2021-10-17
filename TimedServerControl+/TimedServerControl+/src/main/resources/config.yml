@@ -1,7 +1,7 @@
 prefix: "&7[&6Server&7] "
 
-reload-command: 'treload'
-restart-command: 'trestart'
-stop-command: 'tstop'
+reload-command: "treload"
+restart-command: "trestart"
+stop-command: "tstop"
 
-permission-tsc: 'ethernal.timedservercontrol'
+permission-tsc: "ethernal.timedservercontrol"
