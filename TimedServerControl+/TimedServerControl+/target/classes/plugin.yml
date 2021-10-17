@@ -1,0 +1,11 @@
+name: TimedServerControl
+version: 1.0-SNAPSHOT
+main: me.hisen.serverservercontrol.Main
+api-version: 1.16
+commands:
+  tstop:
+    description: Timed stop
+  trestart:
+    description: Timed restart
+  treload:
+    description: Timed reload
